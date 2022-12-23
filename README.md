@@ -27,5 +27,7 @@ This is our complete food delivery app, where I will share with you how you can 
 
 => Bottom Navigation Bar
 
-## Photos
+## Photo
+![Preview](https://github.com/Jacob-dvlp/E-commerApp-ui/blob/master/screenshots/1.png)
+
 
